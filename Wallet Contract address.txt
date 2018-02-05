@@ -1,0 +1,24 @@
+----Main Coinbase(Token creator)----
+0xd0dbAf0B6d936ed4AFF401049908B032DDF6b0cB - main account
+0xc5a4d5DC0D18983654CAf2e6D4d09BAC0146FB6f - maincontract
+1000-aktc
+
+------benificiary----
+0xbf57EEE0749Fbf673acDb6854e013c870141b0ED - Balu
+0x2Ec180406714EFA6775b6A943Ff824d9FB424F11 - Balu wallet
+
+
+------funder-----
+0xFCCce368F2BfAc903824488b8e3c31A598Fcd68A  - chinna 
+0xb768E50a2b6b6a8de2C426910cA015aF2f4e03BB - chinna wallet
+
+
+-----funder----
+0xb1Ac732cE96EbEbb47236aF5baA0F4DF5B787949 -dani
+0xf442f480403ddb581F020E62C0Aee8e5C23ce0BF -adaniwallet
+
+
+-------------AKT token address---------
+0x1169D4b5699bceC2Fc2BefFACBCE62a835B85e99
+
+--------crowd sale address------------
